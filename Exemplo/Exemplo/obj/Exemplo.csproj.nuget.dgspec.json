@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fagne\\OneDrive\\Documentos\\Github\\Exemplo\\Exemplo\\Exemplo.csproj": {}
+    "C:\\Users\\fagne\\Downloads\\teste\\Exemplo\\Exemplo\\Exemplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fagne\\OneDrive\\Documentos\\Github\\Exemplo\\Exemplo\\Exemplo.csproj": {
+    "C:\\Users\\fagne\\Downloads\\teste\\Exemplo\\Exemplo\\Exemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fagne\\OneDrive\\Documentos\\Github\\Exemplo\\Exemplo\\Exemplo.csproj",
+        "projectUniqueName": "C:\\Users\\fagne\\Downloads\\teste\\Exemplo\\Exemplo\\Exemplo.csproj",
         "projectName": "Exemplo",
-        "projectPath": "C:\\Users\\fagne\\OneDrive\\Documentos\\Github\\Exemplo\\Exemplo\\Exemplo.csproj",
+        "projectPath": "C:\\Users\\fagne\\Downloads\\teste\\Exemplo\\Exemplo\\Exemplo.csproj",
         "packagesPath": "C:\\Users\\fagne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fagne\\OneDrive\\Documentos\\Github\\Exemplo\\Exemplo\\obj\\",
+        "outputPath": "C:\\Users\\fagne\\Downloads\\teste\\Exemplo\\Exemplo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
